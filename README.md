@@ -3,7 +3,8 @@ Make a server!
 
 Server
 -----
-play.spigotmc.org
+Java: play.spigotmc.org:25565
+Bedrock: play.spigotmc.org:19132
 
 Rules
 -----
